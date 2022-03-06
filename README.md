@@ -1,5 +1,5 @@
 # LBMTMC
-LBMTMC Means Live-Bg-MomentText-with-MagicCursor. Here in this project you can see in text there is background motion of our earth therefore in same time you can change background color(B/W) by one MagiCursor click in your respective screen.
+LBMTMC Means <b>Live-Bg-MomentText-with-MagicCursor</b>. Here in this project you can see in text there is background motion of our earth therefore in same time you can change background color(B/W) by one MagiCursor click in your respective screen.
 
 
 
